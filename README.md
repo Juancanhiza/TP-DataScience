@@ -1,2 +1,2 @@
-Predictor de Casos de Covid
-Modelo enteramente de práctica de una Regresión Lineal
+Predictor de Casos de Covid de propósitos académicos.
+Modelo basado en Regresión Lineal
